@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://nxsjs.com">
-    <img width="200" alt="NxsJs logo" src="logo.svg">
+    <img width="100" alt="NxsJs logo" src="logo.svg">
   </a>
   
 <hr/>
